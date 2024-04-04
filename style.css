@@ -473,6 +473,7 @@ textarea{
         display: flex;
         flex-direction: column;        
         margin: 0 auto;
+        width: 80%;
 
 }
 
@@ -501,6 +502,9 @@ textarea{
     }
     .contact-container{
         flex-direction: column;
+    }
+    .service-conatainer{
+        width: 70%;
     }
     .service-card{
         width: 90%;
